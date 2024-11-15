@@ -1,3 +1,6 @@
+
+```bash
+
 # INSTALL KUBECTL
 sudo apt-get update
 sudo apt-get install -y kubectl
